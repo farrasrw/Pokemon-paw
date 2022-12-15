@@ -2,7 +2,7 @@
   "name": "demo-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/farrasrw/Pokemon-paw.git",
+  "homepage": "https://farrasrw.github.io/Pokemon-paw/",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
